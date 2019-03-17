@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Benjatron87/friend-finder#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "node": "^11.12.0",
     "path": "^0.12.7"
   }
 }
