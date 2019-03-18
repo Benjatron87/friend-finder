@@ -1,6 +1,6 @@
 const friends = [{
         name: "Benj Thomsen",
-        photo: "../../myImage/my-image.jpg",
+        photo: "/my-image.jpg",
         scores: [
             "4",
             "4",
